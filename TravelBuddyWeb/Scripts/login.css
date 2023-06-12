@@ -1,24 +1,7 @@
-﻿/*.bg-text {
-    background-color: rgb(0,0,0); 
-    background-color: rgba(0,0,0, 0.4);
-    color: white;
-    font-weight: bold;
-    border: 3px solid #f1f1f1;
-    position: absolute; 
-    z-index: 2;
-    height: 754px;
-    width: 525px;
-    padding: 8px;
-}
-*/
+﻿@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,500);
 
-@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,100,500);
-
-body {
-    background: url('../Content/Images/joburgback.jpg') no-repeat;
-    color: darkgreen;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+body,
+html {
     margin: 0;
     height: 100%;
 }

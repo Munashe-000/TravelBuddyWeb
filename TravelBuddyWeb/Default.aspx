@@ -7,8 +7,6 @@
     <br />
 
       <div style="display: flex;position:absolute;left:150px">
-      <div class="bg-text">
-
         <div class='bold-line'></div>
         <div class='container'>
           <div class='window'>
@@ -27,7 +25,6 @@
             </div>
           </div>
         </div>
-      </div>
 
       </div>
 
